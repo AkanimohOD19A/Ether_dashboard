@@ -39,7 +39,7 @@ curr_time = datetime.now()
 st.title("Competition Entry: Dashboard of ENS dataset")
 st.write("Blockchain is a technology that allows transactions and data "
          "to be recorded and verified without a central authority. "
-         "Here we get to use the first 1000 records on a dialy basis from the graphprotocol"
+         "Here we get to use the first 1000 records on a daily basis from the graphprotocol"
          "to create distribution and dashboard")
 
 ## -> Sidebar Properties
