@@ -36,7 +36,7 @@ curr_time = datetime.now()
 
 ## Build Dashboard
 
-st.title("Competition Entry: Dashboard of ENS dataset")
+st.title("APP-A-THON Entry: Dashboard of ENS dataset")
 st.write("Blockchain is a technology that allows transactions and data "
          "to be recorded and verified without a central authority. "
          "Here we get to use the first 1000 records on a daily basis from the graphprotocol"
